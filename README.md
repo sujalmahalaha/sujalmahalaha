@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sujal-mahalaha-1ba56b234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal-mahalaha-1ba56b234/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Sujal_Mahalaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sujal_Mahalaha" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sujalmaha613j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Sujal_Mahalaha" height="30" width="40" /></a>
 
 </p>
 
