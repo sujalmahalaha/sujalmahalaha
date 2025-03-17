@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3 align="center">Passionate Computer Science engineering student at VIT Bhopal with expertise in C++, SQL, and the MERN stack.</h3>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devendrakumarsahu09&label=Profile%20views&color=0e75b6&style=flat" alt="devendrakumarsahu09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalmahalaha&label=Profile%20views&color=0e75b6&style=flat" alt="sujalmahalaha" /> </p>
 
 
 
